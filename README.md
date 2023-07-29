@@ -10,14 +10,16 @@ We only show some temporary results here.
 
 This is a temporary result rendering using our neural prt field. This is a compressed video with loss of quality, the original video is of resolution 2048*2048.
 
-<video src="assets\brass.mp4"></video>
 
+https://github.com/yijie21/Neural_PRT_Field/assets/37905745/05111f46-677f-4ce6-ba65-bc85484055a5
 
 
 ## Scene: kitchen
 
 This is also a temporary result rendering using our neural prt field. This is a compressed video with loss of quality, the original video is of resolution 1920*1080.
 
-<video src="assets\kitchen.mp4"></video>
+
+https://github.com/yijie21/Neural_PRT_Field/assets/37905745/e6174e01-d13b-45b0-8293-8b4f4cfbd6ec
+
 
 ## Waiting to be updated...
